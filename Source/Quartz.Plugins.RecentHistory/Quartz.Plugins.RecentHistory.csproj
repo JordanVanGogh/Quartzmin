@@ -7,19 +7,21 @@
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <NoWarn>1591</NoWarn>
 
-    <Version>1.0.3</Version>
-    <Product>Quartz.Plugins.RecentHistory</Product>
+    <Version>0.1.0</Version>
+    <Product>Quartz.Plugins.RecentHistory (fork)</Product>
     <Title>Quartz.NET plugin to persist recent job execution history</Title>
-    <Authors>Jan Lucansky</Authors>
-    <PackageProjectUrl>https://github.com/jlucansky/Quartzmin</PackageProjectUrl>
-    <Description>This is supporting package for Quartzmin</Description>
+    <Authors>Jordan van Gogh</Authors>
+    <PackageProjectUrl>https://github.com/JordanVanGogh/Quartzmin</PackageProjectUrl>
+    <Description>A fork of Quartz.Plugins.RecentHistory. This is supporting package for Quartzmin</Description>
     <PackageTags>quartz;recent;history</PackageTags>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
     <FileVersion>1.0.0.0</FileVersion>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
-    <Copyright>Copyright © 2018 Jan Lucansky</Copyright>
+    <Copyright>Copyright © 2018 Jan Lucansky, Jordan van Gogh</Copyright>
     <RepositoryType>git</RepositoryType>
-    <RepositoryUrl>https://github.com/jlucansky/Quartzmin</RepositoryUrl>
+    <RepositoryUrl>https://github.com/JordanVanGogh/Quartzmin</RepositoryUrl>
+    <Company>Jordan van Gogh</Company>
+    <PackageId>Quartz.Plugins.RecentHistory.Fork</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
